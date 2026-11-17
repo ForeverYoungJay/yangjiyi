@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4124", "--directory", "/private/tmp/claude-501/-Users-yang--claude-spares-spare-5GLUDA/2dc99319-e518-4097-a170-16a7588cca83/scratchpad/srv"],
+      "port": 4124
+    }
+  ]
+}

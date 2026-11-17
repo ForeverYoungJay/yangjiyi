@@ -11,28 +11,28 @@ nav_order: 4
 
 ## Education
 
-**Institute of Science Tokyo** (formerly Tokyo Institute of Technology) — _2024.03 – present_
-PhD in Materials Science and Engineering · Supervisors: Masahiko Demura, Yoshinao Kobayashi
+**Institute of Science Tokyo** (formerly Tokyo Institute of Technology) — _2024.03 – present_<br>
+PhD in Materials Science and Engineering · Supervisors: Masahiko Demura, Yoshinao Kobayashi<br>
 Thesis: _AI-Assisted Crystal Plasticity Modeling: Development of Intelligent Simulation Tools and Applications to Crystalline Materials_ — LLM agents for crystal plasticity simulation, CPExtractor, DAMASK-MCP and the DAMASK Copilot multi-agent framework.
 
-**Tokyo Institute of Technology** — _2021.03 – 2023.04_
-MSc in Materials Science and Engineering · GPA 3.36 / 4.00 · Supervisors: Yoshinao Kobayashi, Masahiko Demura
+**Tokyo Institute of Technology** — _2021.03 – 2023.04_<br>
+MSc in Materials Science and Engineering · GPA 3.36 / 4.00 · Supervisors: Yoshinao Kobayashi, Masahiko Demura<br>
 Thesis: _Computational Analysis on Anisotropy Behavior of Ni₃Al Single Crystals During Cold-Rolling_
 
-**Donghua University** — _2016.09 – 2020.06_
-BEng in Materials Science and Engineering · GPA 3.87 / 4.00 · Supervisors: Yuchi Fan, Wan Jiang
+**Donghua University** — _2016.09 – 2020.06_<br>
+BEng in Materials Science and Engineering · GPA 3.87 / 4.00 · Supervisors: Yuchi Fan, Wan Jiang<br>
 Thesis: Ultrathin, lightweight graphene aerogels with precisely tunable density for efficient microwave absorption.
 
 ## Research Experience
 
 - **RWTH Aachen University** — Exchange Student · _2026.07 – 2026.10_
-- **Max Planck Institute for Sustainable Materials (MPI-SusMat)**, Germany — Visiting Researcher, Prof. Dierk Raabe's group · _2026.07 – 2026.10_
+- **Max Planck Institute for Sustainable Materials (MPI-SusMat)**, Germany — Visiting Researcher, Prof. Dierk Raabe's group · _2026.07 – 2026.10_<br>
   Polycrystal stress prediction and generalization across materials and loading conditions by coupling sparse single-crystal responses with grain graphs.
-- **NIMS** — Junior Researcher, Materials Modeling Group · _2024.03 – present_
+- **NIMS** — Junior Researcher, Materials Modeling Group · _2024.03 – present_<br>
   LLM-assisted automation of materials simulation; AI-assisted tools such as CrystalPlasticitySim and DAMASK-MCP.
-- **NIMS** — Graduate Research Assistant, materials data and integrated systems · _2021.03 – 2023.04_
+- **NIMS** — Graduate Research Assistant, materials data and integrated systems · _2021.03 – 2023.04_<br>
   Constitutive parameter identification, property prediction and process parameter exploration combining simulation, materials data and optimization.
-- **Tokyo Institute of Technology** — Graduate Research Assistant, nickel aluminide simulation · _2021.03 – 2023.04_
+- **Tokyo Institute of Technology** — Graduate Research Assistant, nickel aluminide simulation · _2021.03 – 2023.04_<br>
   Tuning the workability of Ni₃Al through data science and computational modeling.
 
 ## Conferences & Presentations
@@ -80,28 +80,28 @@ Thesis: Ultrathin, lightweight graphene aerogels with precisely tunable density 
 
 ## 教育背景
 
-**东京科学大学**（原东京工业大学）— _2024.03 — 至今_
-材料科学与工程 博士研究生｜导师：出村雅彦、小林能直
+**东京科学大学**（原东京工业大学）— _2024.03 — 至今_<br>
+材料科学与工程 博士研究生｜导师：出村雅彦、小林能直<br>
 博士课题：_AI-Assisted Crystal Plasticity Modeling: Development of Intelligent Simulation Tools and Applications to Crystalline Materials_：大语言模型智能体辅助晶体塑性模拟、CPExtractor 文献参数提取、DAMASK-MCP 接口及 DAMASK Copilot 多智能体模拟框架。
 
-**东京工业大学** — _2021.03 — 2023.04_
-材料科学与工程 硕士｜GPA：3.36 / 4.00｜导师：小林能直、出村雅彦
+**东京工业大学** — _2021.03 — 2023.04_<br>
+材料科学与工程 硕士｜GPA：3.36 / 4.00｜导师：小林能直、出村雅彦<br>
 硕士论文：Ni₃Al 单晶冷轧各向异性行为的计算分析
 
-**东华大学** — _2016.09 — 2020.06_
-材料科学与工程 学士｜GPA：3.87 / 4.00｜导师：范宇驰、江菀
+**东华大学** — _2016.09 — 2020.06_<br>
+材料科学与工程 学士｜GPA：3.87 / 4.00｜导师：范宇驰、江菀<br>
 本科论文：超薄、轻质且密度可精准调控的石墨烯气凝胶用于高效微波吸收
 
 ## 科研及国际交流经历
 
 - **亚琛工业大学（RWTH Aachen University）** — 交换生 · _2026.07 — 2026.10_
-- **马克斯·普朗克可持续材料研究所（MPI-SusMat，德国）** — 访问研究员，Dierk Raabe 教授团队 · _2026.07 — 2026.10_
+- **马克斯·普朗克可持续材料研究所（MPI-SusMat，德国）** — 访问研究员，Dierk Raabe 教授团队 · _2026.07 — 2026.10_<br>
   围绕稀疏单晶响应与晶粒图的耦合建模，研究跨材料、跨加载条件下的多晶应力预测及泛化能力。
-- **日本物质·材料研究机构（NIMS）** — 初级研究员，Materials Modeling Group · _2024.03 — 至今_
+- **日本物质·材料研究机构（NIMS）** — 初级研究员，Materials Modeling Group · _2024.03 — 至今_<br>
   应用大语言模型辅助材料模拟流程自动化，开展 CrystalPlasticitySim、DAMASK-MCP 等 AI 辅助材料模拟工具。
-- **日本物质·材料研究机构（NIMS）** — 研究生研究助理，材料数据与集成系统相关部门 · _2021.03 — 2023.04_
+- **日本物质·材料研究机构（NIMS）** — 研究生研究助理，材料数据与集成系统相关部门 · _2021.03 — 2023.04_<br>
   融合数值模拟、材料数据与优化算法开展本构参数辨识、材料性能预测与制程参数探索。
-- **东京工业大学** — 研究生研究助理，镍铝化物材料模拟 · _2021.03 — 2023.04_
+- **东京工业大学** — 研究生研究助理，镍铝化物材料模拟 · _2021.03 — 2023.04_<br>
   通过数据科学与计算建模研究 Ni₃Al 加工性能的调控。
 
 ## 学术会议及报告

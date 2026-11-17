@@ -2,7 +2,7 @@
 (function () {
   var root = document.documentElement;
   var style = document.createElement("style");
-  style.textContent = "html[data-lang=en] .zh, html[data-lang=zh] .en { display: none !important; } #lang-toggle { background: none; border: 0; color: inherit; font-weight: 600; cursor: pointer; padding: 0 0.5rem; }";
+  style.textContent = "html[data-lang=en] .zh, html[data-lang=zh] .en { display: none !important; } #lang-toggle { background: none; border: 0; color: inherit; font-weight: 600; cursor: pointer; }";
   document.head.appendChild(style);
 
   // Labels generated from page front matter (nav links, page titles).
@@ -28,6 +28,7 @@
 
   var btn = document.createElement("button");
   btn.id = "lang-toggle";
+  btn.className = "nav-link";
   btn.type = "button";
   btn.title = "中文 / English";
   btn.setAttribute("aria-label", "Switch language / 切换语言");
