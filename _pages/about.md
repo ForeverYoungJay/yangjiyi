@@ -8,7 +8,8 @@ subtitle: >
 
 profile:
   align: right
-  image:
+  image: prof_pic.png
+  image_circular: true
   more_info: >
     <p class="en">Materials Modeling Group, NIMS<br>Tsukuba, Japan</p>
     <p class="zh">NIMS 材料建模组<br>日本 · 筑波</p>
