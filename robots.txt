@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://foreveryoungjay.github.io/yangjiyi/sitemap.xml
