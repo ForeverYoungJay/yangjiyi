@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jiyi Yang 杨佶懿 # the website title (if blank, full name will be used instead)
 first_name: Jiyi
 middle_name:
 last_name: Yang
 contact_note: >
   Email is the best way to reach me. / 欢迎通过邮件联系我。
 description: >
-  Jiyi Yang (杨佶懿) — PhD student in Materials Science, AI for Science, crystal plasticity simulation.
+  Jiyi Yang (Yang Jiyi, 杨佶懿) — PhD student at Institute of Science Tokyo and NIMS Junior Researcher working on AI for Science, LLM agents and crystal plasticity simulation. 杨佶懿，东京科学大学博士研究生，NIMS 初级研究员，研究 AI 辅助晶体塑性模拟。
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
   <script src="/yangjiyi/assets/js/lang.js"></script>
-keywords: crystal plasticity, AI for science, LLM agents, materials informatics, DAMASK # add your own keywords or leave empty
+keywords: 杨佶懿, Jiyi Yang, Yang Jiyi, crystal plasticity, AI for science, LLM agents, materials informatics, DAMASK # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -109,9 +109,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://foreveryoungjay.github.io/yangjiyi/assets/img/prof_pic.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
